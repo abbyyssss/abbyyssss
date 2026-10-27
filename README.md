@@ -18,4 +18,5 @@ Desenvolvo aplicações web, mobile e APIs, e estou em busca de oportunidades em
 Em breve: estou preparando meus primeiros projetos para colocar aqui.
 
 ## 📫 Contato
-- LinkedIn: [adicione o seu link]
+- LinkedIn: https://www.linkedin.com/in/kauan-quaresma-3a8ba5356/
+  
